@@ -1,2 +1,0 @@
-# username of accounts (remove this line before running)
-_kshitiz_raj
